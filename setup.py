@@ -28,7 +28,7 @@ setup(
         "torch",
         "torchaudio",
         "tqdm",
-        "openai-whisper>=20230314,<=20240930"
+        "openai-whisper"
     ],
     extras_require={
         "fw": [
